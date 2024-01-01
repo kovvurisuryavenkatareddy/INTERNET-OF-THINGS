@@ -2,7 +2,8 @@
 
 #TASK-1
 Interface the DHT22 sensor to the ESP32 microcontroller and push the
-data to ThingSpeak.
+data to ThingSpeak.  
+
 DEMO YOUTUBE LINK:- 
 
 #TASK-2
